@@ -1,0 +1,36 @@
+1.	Question 1
+A."wrong answer 2
+B.asdpaksd"
+C.Correct answer
+D.wrong answer 1
+
+2.	Question 2
+A."wadf;k./ads..
+B.asdf"
+C.sdf.
+D.
+
+3.	Question 3
+A.Correct answer
+B."wrong answer 2
+C.THERE IS A COMMA
+D.IN THIS ANSWER
+
+4.	Question 4
+A.sdf.
+B."wadf;k./ads..
+C.asdf"
+D.
+
+5.	Question 5
+A.wrong answer 1
+B.Correct answer
+C.asdpaksd"
+D."wrong answer 2
+
+6.	Question 6
+A.
+B.asdf"
+C."wadf;k./ads..
+D.sdf.
+
