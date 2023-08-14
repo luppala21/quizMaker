@@ -26,7 +26,7 @@ class quizMaker():
     # prints usage information in case of error
     def usage(self):
         print("Usage: quizMaker.py [-i FILE] [-o FILE]")
-        print("\t-i: input file (.csv delimited); STDIN if not used")
+        print("\t-i: input file (.txt, tab-delimited); STDIN if not used")
         print("\t-q: quiz file (.txt file); STDOUT if not used")
         print("\t-a: answerkey file (.txt file); STDOUT if not used")
 
