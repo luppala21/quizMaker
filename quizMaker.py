@@ -69,7 +69,7 @@ class quizMaker():
         # file to be read
         inFile = ""
 
-        input_file_name = "TestQuizMaker.csv"
+        input_file_name = "TestQuizMaker2.txt"
         # initializes input source depending on option
         if input_file_name == "":
             inFile = sys.stdin
@@ -107,7 +107,7 @@ class quizMaker():
             questionNum = questionNum + 1
 
             # read a single line
-            line_items = list(map(str.strip, line.split(",")))
+            line_items = list(map(str.strip, line.split("\t")))
             question = line_items[0]
             correctanswer = line_items[1]
             answers = line_items[1:5]

@@ -1,6 +1,6 @@
 Membranous nephropathy presents with which of the following on histology?
 subepithelial deposits
-Spikes and domes appearance on silver stain is pathognomonic for membranous nephropathy"
+"""Spikes and domes"" appearance on silver stain is pathognomonic for membranous nephropathy"
 
 Minimal change disease is most associated with which demographic?
 children
@@ -8,7 +8,7 @@ MCD is the most common nephropathy in children
 
 Amyloidosis presents with what on Congo red stain?
 apple-green birefringence
-subepithelial humps
+"Congo red stain of amyloidosis samples show salmon colored deposits, whereas IM, EM, and IF would more likely show fibrils"
 
 
 
