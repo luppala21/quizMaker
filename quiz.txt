@@ -1,36 +1,36 @@
-1.	Question 1
-A."wrong answer 2
-B.asdpaksd"
-C.Correct answer
-D.wrong answer 1
+1.	Membranous nephropathy presents with which of the following on histology?
+A.podocyte effacement
+B.subepithelial deposits
+C.subepithelial humps
+D.apple-green birefringence
 
-2.	Question 2
-A."wadf;k./ads..
-B.asdf"
-C.sdf.
-D.
+2.	Minimal change disease is most associated with which demographic?
+A.African Americans and Hispanic individuals
+B.children
+C.older adults
+D.smokers
 
-3.	Question 3
-A.Correct answer
-B."wrong answer 2
-C.THERE IS A COMMA
-D.IN THIS ANSWER
+3.	Amyloidosis presents with what on Congo red stain?
+A.podocyte effacement
+B."fibrils of different sizes
+C.apple-green birefringence
+D.average 7nm"
 
-4.	Question 4
-A.sdf.
-B."wadf;k./ads..
-C.asdf"
-D.
-
-5.	Question 5
-A.wrong answer 1
-B.Correct answer
-C.asdpaksd"
-D."wrong answer 2
-
-6.	Question 6
+4.	
 A.
-B.asdf"
-C."wadf;k./ads..
-D.sdf.
+B.
+C.
+D.
+
+5.	
+A.
+B.
+C.
+D.
+
+6.	
+A.
+B.
+C.
+D.
 

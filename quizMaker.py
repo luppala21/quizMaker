@@ -111,7 +111,7 @@ class quizMaker():
             question = line_items[0]
             correctanswer = line_items[1]
             answers = line_items[1:5]
-            rationale = line_items[6]
+            rationale = line_items[5]
             
             random.shuffle(answers)
             #print(answers)
