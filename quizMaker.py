@@ -108,10 +108,10 @@ class quizMaker():
 
             # read a single line
             line_items = list(map(str.strip, line.split(",")))
-            question = line_items[5]
-            correctanswer = line_items[6]
-            answers = line_items[6:10]
-            rationale = line_items[11]
+            question = line_items[0]
+            correctanswer = line_items[1]
+            answers = line_items[1:5]
+            rationale = line_items[6]
             
             random.shuffle(answers)
             #print(answers)
